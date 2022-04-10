@@ -16,8 +16,6 @@ You can also use `CObind [key] [command]`--similarly to `COSimulBind` when used 
 You can unbind the latest bind of the respective type by calling the command with no second parameter, for example: running `COBind P` will attempt to unbind the latest command bound to the <kbd>p</kbd> key.<br>
 Alternatively you can use the `COUnbind` command with at least one argument to unbind a keybind at a specific index of the 'toggle' bind type, 2 arguments to unbind at an index of the specified bind type ('toggle' or 'simul') or 3 arguments (with the first argument being ignored) which will let you unbind the first found keybind defined in the 3rd argument.
 
-## due to an issue with uploading files directly into the repo via the github website, the files have been temporarily placed into a .zip file.
-
 ## development
 ### How can I develop for this project?
 After cloning the repository and ensuring you have any version of [VS 2017/2019](https://visualstudio.microsoft.com/) installed, you should be able to simply open the `.snl` file to open the project in VS.
