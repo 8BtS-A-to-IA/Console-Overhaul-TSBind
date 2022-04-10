@@ -2,37 +2,32 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A short description of the bug.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behaviour**
+A description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**environment information:**
+ - Version of M.U.T: MUT version ...
+ - Version of modpack: modpack version ...
+   - (choose one, use modpack version if currently using the modpack instead of the mod seperately)
+ - Version of RoR2: ...
+ - Version of BepInEx: ...
+ - Single or multi player?: ...
+   - (if multi) Are you the host?: Yes/No
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**logs:**
+Please link a [pastebin](https://pastebin.com/) post, to paste what's shown in the console (if anything shown, otherwise leave this blank).
